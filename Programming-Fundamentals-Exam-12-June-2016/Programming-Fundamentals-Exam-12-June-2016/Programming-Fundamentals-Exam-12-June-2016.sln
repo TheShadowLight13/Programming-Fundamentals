@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{547D2313-490B-43E9-BF5D-CA08A5CE2F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftuniCoffeeOrders", "SoftuniCoffeeOrders\SoftuniCoffeeOrders.csproj", "{74C8498C-48CD-42BF-B227-4D048C453F06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballStandings", "FootballStandings\FootballStandings.csproj", "{92C019D8-93C4-419A-B5D9-AA7A50B35392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrifonsQuest", "TrifonsQuest\TrifonsQuest.csproj", "{25750A88-598E-4C2D-965D-50DB49FDF1A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{547D2313-490B-43E9-BF5D-CA08A5CE2F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547D2313-490B-43E9-BF5D-CA08A5CE2F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547D2313-490B-43E9-BF5D-CA08A5CE2F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547D2313-490B-43E9-BF5D-CA08A5CE2F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C8498C-48CD-42BF-B227-4D048C453F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C8498C-48CD-42BF-B227-4D048C453F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C8498C-48CD-42BF-B227-4D048C453F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C8498C-48CD-42BF-B227-4D048C453F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C019D8-93C4-419A-B5D9-AA7A50B35392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C019D8-93C4-419A-B5D9-AA7A50B35392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C019D8-93C4-419A-B5D9-AA7A50B35392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C019D8-93C4-419A-B5D9-AA7A50B35392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25750A88-598E-4C2D-965D-50DB49FDF1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25750A88-598E-4C2D-965D-50DB49FDF1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25750A88-598E-4C2D-965D-50DB49FDF1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25750A88-598E-4C2D-965D-50DB49FDF1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
